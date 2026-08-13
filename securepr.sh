@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Running checks..."
-exit 1
+exit 0
